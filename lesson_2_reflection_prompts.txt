@@ -1,7 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
+A hidden git folder is created. It is needed in order to make branches and commits.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+In the staging area I should add files that I would like to commit, so I do not have to (or maybe I do not want to) add all files at once
 
 How can you use the staging area to make sure you have one commit per logical
 change?
