@@ -15,6 +15,3 @@ First we'll need to view the log of the repo, then we need to compare them with 
 
 How might using version control make you more confident to make changes that could break something?
 I would know there is always a way back.
-
-What happens when you initialize a repository? Why do you need to do it?
-A hidden git folder is created. It is needed in order to make branches and commits.
