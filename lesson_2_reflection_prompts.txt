@@ -7,14 +7,20 @@ In the staging area I should add files that I would like to commit, so I do not 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+I can use git diff to check what changes are currently made in the satging area
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to design different stages of your program, or you want to experiment
 
 How do the diagrams help you visualize the branch structure?
+You can see each branch more easily
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+So it's easier to understand and to know which branch "stays" and which one gets removed
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic merging can highlight where the code was changed. Con can be that
+it is hard to identify why it was changed.
