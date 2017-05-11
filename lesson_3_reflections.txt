@@ -4,8 +4,8 @@ When multiple people arew working on the same project on multiple devices
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+Because if other people are working on the repo, it might pull changes that
+are not needed
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
